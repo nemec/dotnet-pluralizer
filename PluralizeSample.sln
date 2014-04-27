@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralizeSample", "PluralizeSample\PluralizeSample.csproj", "{7B8F5BA5-8AFD-4409-9B60-69E56601449F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8F5BA5-8AFD-4409-9B60-69E56601449F}.Debug|x86.ActiveCfg = Debug|x86
+		{7B8F5BA5-8AFD-4409-9B60-69E56601449F}.Debug|x86.Build.0 = Debug|x86
+		{7B8F5BA5-8AFD-4409-9B60-69E56601449F}.Release|x86.ActiveCfg = Release|x86
+		{7B8F5BA5-8AFD-4409-9B60-69E56601449F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PluralizeSample\PluralizeSample.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.IfElseBraceForcement = AddBraces
+		$2.ForBraceForcement = AddBraces
+		$2.WhileBraceForcement = AddBraces
+		$2.UsingBraceForcement = AddBraces
+		$2.FixedBraceForcement = AddBraces
+		$2.ElseNewLinePlacement = NewLine
+		$2.ElseIfNewLinePlacement = SameLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeIndexerDeclarationBracket = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.AfterDelegateDeclarationParameterComma = True
+		$2.NewParentheses = False
+		$2.IfParentheses = False
+		$2.WhileParentheses = False
+		$2.ForParentheses = False
+		$2.ForeachParentheses = False
+		$2.CatchParentheses = False
+		$2.SwitchParentheses = False
+		$2.LockParentheses = False
+		$2.UsingParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal

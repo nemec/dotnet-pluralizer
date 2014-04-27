@@ -76,3 +76,5 @@ _ReSharper.*
 # My specific Visual Studio
 *.vsp
 *.psess
+
+*.userprefs
